@@ -1,4 +1,4 @@
 # hello-word
 
-Hello!
-I think: "The one who invented GIT well done!"
+-Hello!
+-I think: "The one who invented GIT well done!"
